@@ -1,7 +1,8 @@
 # Hacktoberfest-Marathon-Welcome
 
-![Hacktoberfest logo]
-![Hacktoberfest 2022](https://user-images.githubusercontent.com/55406909/192240607-22089d92-e7b3-4d51-8a20-dc273f233cec.png)
+![Hacktoberfest 2022](https://user-images.githubusercontent.com/55406909/192240839-aedf8945-5d2a-4500-8a1a-30cb8c4171f1.png)
+
+
 
 <div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
@@ -43,11 +44,12 @@ Participants with at least 4 accepted pull requests will receive rewards from di
 ## Our Tracks :sparkles:
 S. No. | Track | Repository Link | Developed By
 --- | --- | --- | ---
-1 | ReactJS | [https://github.com/GDSC-CGC/Start-ReactJS](https://github.com/GDSC-CGC/Start-ReactJS) | GDSC CGC
-2 | C++ | [https://github.com/GDSC-CGC/Start-CPP](https://github.com/GDSC-CGC/Start-CPP) | GDSC CGC
-3 | JavaScript | [https://github.com/GDSC-CGC/Start-Javascript](https://github.com/GDSC-CGC/Start-Javascript) | GDSC CGC
-4 | Kotlin | [https://github.com/GDSC-CGC/Start-Kotlin](https://github.com/GDSC-CGC/Start-Kotlin) | GDSC CGC
-5 | OpenCV-Python | [https://github.com/GDSC-CGC/Start-OpenCV-Python](https://github.com/GDSC-CGC/Start-OpenCV-Python) | GDSC CGC
+1 | ReactJS | [https://github.com/GDSC-CGC/ReactJS](https://github.com/GDSC-CGC/ReactJS) | GDSC CGC
+2 | C++ | [https://github.com/GDSC-CGC/CPP](https://github.com/GDSC-CGC/CPP) | GDSC CGC
+3 | JavaScript | [https://github.com/GDSC-CGC/JavaScript](https://github.com/GDSC-CGC/JavaScript) | GDSC CGC
+4 | Python | [https://github.com/GDSC-CGC/Python](https://github.com/GDSC-CGC/Python) | GDSC CGC
+5 | DSA | [https://github.com/GDSC-CGC/DSA](https://github.com/GDSC-CGC/DSA) | GDSC CGC
+ 
 
 ## Steps to Contribtue :octocat:
 - Fork the repository of the track you are willing to follow using the fork button on the top right of the repository page. This will create a new repository under your profile containing all the content from this track. You can change the code on your forked repository and send a pull request for it to be merged with our track repository.  
