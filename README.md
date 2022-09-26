@@ -1,6 +1,7 @@
 # Hacktoberfest-Marathon-Welcome
 
-![Hacktoberfest logo](/Display/logo-hacktoberfest-full.f42e3b1.svg)
+![Hacktoberfest logo]
+![Hacktoberfest 2022](https://user-images.githubusercontent.com/55406909/192240607-22089d92-e7b3-4d51-8a20-dc273f233cec.png)
 
 <div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
