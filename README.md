@@ -1,6 +1,6 @@
 # Hacktoberfest-Marathon-Welcome
 
-![Hacktoberfest logo](/Dispaly/logo-hacktoberfest-full.f42e3b1.svg)
+![Hacktoberfest logo](/Display/logo-hacktoberfest-full.f42e3b1.svg)
 
 <div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
@@ -50,7 +50,7 @@ S. No. | Track | Repository Link | Developed By
 
 ## Steps to Contribtue :octocat:
 - Fork the repository of the track you are willing to follow using the fork button on the top right of the repository page. This will create a new repository under your profile containing all the content from this track. You can change the code on your forked repository and send a pull request for it to be merged with our track repository.  
-![fork](/Dispaly/fork.png)
+![fork](/Display/fork.png)
 - Copy the URL of the forked repository which should be under your account.
 - Clone the repository on your local machine for editing the content and adding your submission using the following command:  
   ```
@@ -79,16 +79,16 @@ S. No. | Track | Repository Link | Developed By
   ```
 - Refresh your repository page on your GitHub profile to confirm that your changes have been saved and uploaded to your forked repository.
 - In order to make a submission, with the changes you have just committed and pushed to your repository, under the `Contribute` dropdown button click `Open pull request`.  
-![Contribute](/Dispaly/contribute.png)
+![Contribute](/Display/contribute.png)
 - Confirm the changes you want to submit and click `Create pull request`.  
-![Create PR](/Dispaly/createpr.png)
+![Create PR](/Display/createpr.png)
 - Add a title and any additional comment to your pull request and click on `Create pull request`.  
-![PR Message and Comment](/Dispaly/prmessage.png)
+![PR Message and Comment](/Display/prmessage.png)
 - Follow up if asked to making any changes to your pull request and adding any additional commits.
 
 ## Connect with the Community :rocket:
 <div align="center">
-  <img src="Dispaly/GDSCCGC-community.jpeg" height="200px" />
+  <img src="Display/GDSCCGC-community.jpeg" height="200px" />
   <br><br>
   <a href="https://twitter.com/dsccgc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-53-189787.png" height="50px" /></a>&emsp;
   <a href="https://t.me/dsccgc"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" height="50px"/></a>&emsp;
