@@ -96,6 +96,6 @@ S. No. | Track | Repository Link | Developed By
   <a href="https://twitter.com/dsccgc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-53-189787.png" height="50px" /></a>&emsp;
   <a href="https://t.me/dsccgc"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" height="50px"/></a>&emsp;
   <a href="https://www.linkedin.com/company/dsccgc/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-48-189774.png" height="50px" /></a>&emsp;
-  <a href="https://bit.ly/GDSC-CGC-Community2"><img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-3691235-3073755.png" height="50px" /></a>&emsp;
+  <a href="https://chat.whatsapp.com/D6mrEAqXlP20M2lyYqdY1y"><img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-3691235-3073755.png" height="50px" /></a>&emsp;
   <a href="https://www.instagram.com/gdsccgc/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-52-151106.png" height="50px" /></a>
 </div>
