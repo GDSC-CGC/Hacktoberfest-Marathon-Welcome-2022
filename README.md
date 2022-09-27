@@ -1,4 +1,4 @@
-9# Hacktoberfest-Marathon-Welcome
+# Hacktoberfest-Marathon-Welcome
 
 ![Hacktoberfest 2022](https://user-images.githubusercontent.com/55406909/192240839-aedf8945-5d2a-4500-8a1a-30cb8c4171f1.png)
 
@@ -53,7 +53,7 @@ S. No. | Track | Repository Link | Developed By
 
 ## Steps to Contribtue :octocat:
 - Fork the repository of the track you are willing to follow using the fork button on the top right of the repository page. This will create a new repository under your profile containing all the content from this track. You can change the code on your forked repository and send a pull request for it to be merged with our track repository.  
-![fork](/Display/fork.png)
+![fork](/Display/GDSC-CGC_ReactJS.png)
 - Copy the URL of the forked repository which should be under your account.
 - Clone the repository on your local machine for editing the content and adding your submission using the following command:  
   ```
@@ -91,7 +91,7 @@ S. No. | Track | Repository Link | Developed By
 
 ## Connect with the Community :rocket:
 <div align="center">
-  <img src="Display/GDSCCGC-community.jpeg" height="200px" />
+  <img src="Display/GDSC Chandigarh Group of Colleges COE Vertical white.png" height="200px" />
   <br><br>
   <a href="https://twitter.com/dsccgc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-53-189787.png" height="50px" /></a>&emsp;
   <a href="https://t.me/dsccgc"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" height="50px"/></a>&emsp;
