@@ -7,7 +7,7 @@
 <div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
  <strong>Support open source throughout October!</strong><br>
- Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt. 
+ Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt. 
 </div>
 
 ## Contents
@@ -28,7 +28,7 @@
 ### How to Participate
 As a participant, whether a beginner or experienced, you have an opportunity to learn about open source and contribute to open source projects. Open-source projects keep the internet humming—but they can’t do it without resources. Donate and support their awesome work.   
 
-In order to participate, you need to sign in on the [Hacktoberfest Website](https://hacktoberfest.digitalocean.com/) using your GitHub account. All the pull requests that you initiate will be tracked through this portal. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+In order to participate, you need to sign in on the [Hacktoberfest.com](https://hacktoberfest.digitalocean.com/) using your GitHub account. All the pull requests that you initiate will be tracked through this portal. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 Once registered, you need to contribute to open source projects which are participating in the fest. Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the 'hacktoberfest' topic to know if a project is participating in Hacktoberfest. 
 
@@ -62,7 +62,7 @@ S. No. | Track | Repository Link | Developed By
 - Open the `Submissions` folder and create a subfolder named after your university rollnumber and add your submission files for the task to this folder.
 - In order to save the changes make and add them to your GitHub repository, open a terminal window (Command Line / Powershell / Terminal / Git Bash / etc). Make sure that your command shell is inside the project folder or use the `cd` command to change the working directory such as:  
   ```
-  cd Start-ReactJS/
+  cd ReactJS/
   ```
 - Confirm the folder/files you want to add or change using the command:  
   ```
